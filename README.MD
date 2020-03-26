@@ -10,9 +10,9 @@ Utilizando :
  - ReactJS
  - ReactNative
  - MongoDB
- - Docker (para facilitar a replicação) [^1]
+ - Docker (para facilitar a replicação) 1
  
 
 > Projeto em desenvolvimento.
 
-[^1]: Ainda em desenvolvimento.
+1: Ainda em desenvolvimento.
